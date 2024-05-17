@@ -1,0 +1,9 @@
+body{
+  background-color: rgb(207, 210, 210);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#operacion{
+grid-template-columns: auto;
+}
